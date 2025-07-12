@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="">
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="450px"align="right" alt="">
 
 - 🌱 I’m currently learning **DSA , C , PYTHON, power Bi**
 
